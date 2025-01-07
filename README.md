@@ -27,3 +27,7 @@ Program działa w oparciu o komendy, które oferuje:
 
 
 *Aleksander Bystrek, MIT❤*
+
+## Licencja 📄
+
+Projekt jest objęty licencją MIT. Zobacz plik [LICENSE](./LICENSE) w celu uzyskania szczegółów.
